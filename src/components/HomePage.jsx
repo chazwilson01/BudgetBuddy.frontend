@@ -93,7 +93,7 @@ const HomePage = () => {
                     <div className="flex justify-between items-center">
                         <div className="flex items-center">
                             <div className="header-bear"></div>
-                            <span className="ml-2 text-2xl font-bold text-white">BudgetBuddy</span>
+                            <span className="ml-2 text-2xl font-bold text-white">BudgetBuddy (test)</span>
                         </div>
                         <div className="flex space-x-4">
                             <button 

@@ -1,4 +1,4 @@
-export const API_URL = "https://localhost:5252";
+export const API_URL = import.meta.env.VITE_API_URL;
 
 export const endpoints = {
     auth: {
